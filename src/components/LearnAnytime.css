@@ -1,0 +1,27 @@
+.digital_bundle {
+    background: #fff;
+    padding-bottom: 50px;
+    margin-top: 80px;}
+
+.wrw-left h6 {
+    font-size: 18px !important;
+    line-height: 32px !important;
+    font-family: "ProximaNova-600",sans-serif;
+    text-transform: uppercase;
+    color: #012478;
+}
+
+.wrw-left h2 {
+    font-size: 38px !important;
+    line-height: 50px!important;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+    font-weight: bold;
+}
+.videotext{
+    font-size: 22px !important;
+    line-height: 50px!important;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+    font-weight: bolder;
+}

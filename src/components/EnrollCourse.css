@@ -1,0 +1,66 @@
+.edu-tab-data {
+    padding: 20px;
+    background: #A6D1FF;
+    width: 230px;
+    height: 125px;
+    border-radius: 20px;
+}
+.course-img{
+    background: url("../Assests/Course_Card_BG.png") center/cover no-repeat;
+    border-radius: 10px 10px 0 0;
+}
+.card-img-top {
+    width: 25%;
+    height: auto;
+}
+
+.free-badge {
+    color: #fff;
+    background-color: #fd5464;
+    line-height: 20px;
+    top: 0;
+    padding: 0.1rem 0.3rem;
+    margin: 0.45rem;
+    vertical-align: middle;
+    
+}
+.language-badge {
+    color: #000;
+    background-color: #F2F2F2;
+    border-radius: 30px;
+    font-size: 14px;
+    line-height: 17px;
+    width: auto;
+    position: absolute;
+    top: 29%;
+    right: 0;
+    padding: 0.4rem 0.4rem 0.25rem 0.4rem;
+    text-transform: uppercase;
+    margin: 0.25rem;
+    font-weight: 700;
+}
+.card-body {
+    border: 1px solid #dadada;
+    border-radius: 0 0 10px 10px;
+    border-top: none;
+}
+
+.card-title {
+    font-family: ProximaNova-600,sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    max-height: 50px;
+    height: 50px;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+
+.enroll-btn {
+    font-size: 13px;
+    line-height: 19px;
+    background: #ffce04;
+    border-radius: 4px;
+    width: 100%;
+    text-wrap: nowrap;
+}

@@ -1,0 +1,27 @@
+.Courses-text{
+    font-size: 48px !important;
+    line-height: 60px !important;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+    font-weight: bold;
+}
+.Courses-span{
+    color: #3785D7;
+}
+.course-para{
+    font-size: 20px !important;
+    line-height: 30px !important;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.container2  a{
+    background: #3785D7;
+    padding: 10px !important;
+    background: #A6D1FF;
+    width: 230px;
+    height: 125px;
+    border-radius: 20px;
+}

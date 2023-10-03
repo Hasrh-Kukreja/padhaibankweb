@@ -1,0 +1,37 @@
+.follow_insta_box {
+    margin: 30px 0;
+    margin-bottom: 60px;
+}
+.follow_web {
+    background-image: url(https://www.bizgurukul.com/Biz/img/follow_insta_web.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+}
+.follow_web_sub2 {
+    display: flex;
+    justify-content: end;
+}
+.follow_web_sub h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 600;
+    margin-top: 0;
+}
+.follow_web_sub h2 span {
+    color: #333;
+}
+.follow_web_sub p {
+    margin: 0;
+    font-size: 20px;
+    padding: 16px 22px;
+    border-radius: 8px;
+    border: 2px solid #333;
+    background: #fff;
+    color: #333;
+    width: fit-content;
+    font-weight: 500;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}

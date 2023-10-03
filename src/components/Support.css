@@ -1,0 +1,59 @@
+.customer-support-section {
+    margin-bottom: 30px;
+}
+.customer-support-heading {
+    margin-top: 40px;
+}
+.customer-support-heading h2.heading-black {
+    margin-bottom: 20px;
+}
+.customer-support-box {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.customer-support-box img {
+    max-width: 280px;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+.support_sub_box h5 {
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+}
+.support_sub_box h5 i {
+    font-size: 26px;
+    margin-right: 10px;
+    color: #ff783d;
+    margin-bottom: 10px;
+}
+.customer-support-box p {
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+}
+.index-title {
+    font-size: 35px;
+    color: #333;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 20px;
+}
+.heading-black {
+    font-size: 42px;
+    margin: 0;
+    display: inline-block;
+    color: #333;
+    font-weight: 600;
+    position: relative;
+}
+.heading-black {
+    font-size: 40px;
+    font-weight: 700;
+    color: #333;
+}

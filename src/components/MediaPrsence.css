@@ -1,0 +1,37 @@
+.section.media-section {
+    padding: 5rem 0;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background-image: url(https://www.bizgurukul.com/Biz/img/why.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}
+a {
+
+    color: #337ab7;
+    text-decoration: none;
+}
+.media_pre_box {
+     padding: 15px;
+    position: relative;
+}
+.media_pre_box h6 {
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333;
+    line-height: 28px;
+    text-align: center;
+    min-height: 115px;
+}
+
+
+
+
+
+
+        

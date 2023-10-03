@@ -1,0 +1,32 @@
+.Certificate-background{
+    width: 80%;
+    text-align: center;
+    box-shadow: -30px 30px #a6d1ff;
+    max-width: 100%;
+    height: auto;
+}
+
+.nsdc p {
+    font-family: "ProximaNova-600",sans-serif;
+    font-size: 18px !important;
+    line-height: 32px !important;
+    text-transform: uppercase;
+    color: #012478;
+}
+.nsdc h2 {
+    font-size: 38px !important;
+    line-height: 50px !important;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+    font-weight: bold;
+}
+.trainer-btn {
+    font-family: "ProximaNova-600",sans-serif;
+    font-size: 18px !important;
+    align-items: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background: #3785D7;
+    border-radius: 4px;
+    border: none!important;
+}

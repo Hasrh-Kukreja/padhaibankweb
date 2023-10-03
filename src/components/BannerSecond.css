@@ -1,0 +1,34 @@
+.section-heading h2{
+    font-size: 48px;
+    line-height: 60px;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+}
+.cat-text{
+    color:#3785D7
+}
+
+.section-heading p{
+    font-size: 20px !important;
+    line-height: 30px !important;
+    font-family: "ProximaNova-600",sans-serif;
+    color: #012478;
+    text-transform: uppercase;
+}
+
+.course-category-meta span{
+    background: #fff;
+    border-radius: 20px;
+    color: #012478;
+    border: 1px solid #a6d1ff;
+    font-family: ProximaNova-600,sans-serif;
+    font-size: 14px;
+    line-height: 16px
+}
+.course-category-meta h5{
+    font-family: ProximaNova-700,sans-serif;
+    font-size: 18px;
+    color: #012478;
+    line-height: 28px;
+    font-weight: bold;
+}

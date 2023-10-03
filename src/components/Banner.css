@@ -1,0 +1,10 @@
+.allcourse{
+    background: url("../Assests/banner.png") center/cover no-repeat;
+    border-radius: 10px;
+    border: 1px solid #dadada;
+    height: 120px;
+}
+
+.allcourse a{
+    text-decoration: none;
+}

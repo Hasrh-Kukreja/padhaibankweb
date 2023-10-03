@@ -1,0 +1,105 @@
+.digital_bundle {
+    background: #fff;
+    padding-bottom: 50px;
+    margin-top: 20px;}
+
+    .container-90 {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+
+    .container-90 {
+    max-width: 85%;
+    margin: 0 auto;
+}
+.digital_bundle_heading {
+    text-align: center;
+    background: #fff;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 40px;
+    z-index: 9;}
+
+    .index-title {
+        font-size: 35px;
+        color: #333;
+        font-weight: 600;
+        position: relative;
+        padding-bottom: 20px;
+    }
+
+    .digital_bundle_heading p {
+        color: #333;
+        font-size: 18px;
+    }
+
+    .digital_bundle_main_section {
+        padding-top: 10px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 40px;
+        width: 115%;
+    }
+
+    .digital_bundle_left {
+        position: sticky;
+        top: 235px;
+        background: #fff;
+        
+    }
+    .digital_course_main .digital_course_right img {
+        max-width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .img {
+        vertical-align: middle;
+    }
+    .digital_navigation {
+        margin: 0;
+        padding: 0;
+        
+    }
+    .digital_bundle_left .digital_navigation .active a {
+        box-shadow: 5px 5px hsl(18 100% 85% / 1);
+        background: #fff;
+        border: 1px solid #ff783d;
+    }
+    .digital_navigation a {
+        border-radius: 10px;
+        border: 1px solid transparent;
+        transition: 0.5s;
+        font-size: 20px;
+        line-height: 150%;
+        padding: 20px 25px;
+        min-width: 220px;
+        display: block;
+        color: #01202b;
+        font-weight: 500;
+        border-radius: 8px;
+        margin: 5px 0;
+    }
+    a {
+        color: #337ab7;
+        text-decoration: none;
+    }
+    .digital_bundle_right {
+        max-width: calc(100% - 420px);
+        width: 100%;
+        padding-right: 10px;
+    }
+    .digital_course_main {
+        padding: 25px;
+        border-radius: 12px;
+        background: #fff;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 100px;
+        margin-bottom: 40px;
+        border: 1px solid #ff783d38;
+        box-shadow: 0 -2px 7px 0 rgb(22 22 22 / 1%), 0 2px 10px 0 rgb(80 80 80 / 10%);
+        transition: 0.4s;
+    }
